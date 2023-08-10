@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align="center"> 
+  <img src="https://tenor.com/view/food-lunch-dinosaur-jurassic-park-t-rex-gif-13927520" width="70px">
+</div>
 
-<!--
-**haocloo/haocloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><b>Hello, I'm Chi Hao! 👋 </b> </h1>
 
-Here are some ideas to get you started:
+<p align="center">✨ Exploring backend web development and data science </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+<div align="center"> 
+  <p align="center"><i>Let's connect!</i></p>
+  <a href="https://www.linkedin.com/in/loochihao" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20px" alt="Chi Hao's LinkedIn">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haocloo&show_icons=true&layout=compact&theme=radical&hide=css,html,procfile">
+</div>
