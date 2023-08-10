@@ -8,10 +8,10 @@
 
 <br>
 
-<div style="display: flex; align-items:center; justify-content: center; padding:0px;">
-  <h3 align="center">👩‍💻 About Me &nbsp;</h3>
-  <a href="https://www.linkedin.com/in/loochihao" target="_blank" style="padding-top: 5px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="23px" alt="Chi Hao's LinkedIn">
+<div align="center" style="align-items:center;">
+  <h3 align="center" style="display: inline-block; vertical-align: middle;">👩‍💻 About Me  </h3>
+  <a href="https://www.linkedin.com/in/loochihao" target="_blank" style="vertical-align: middle;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="23px" style="padding-top: 5px;" alt="Chi Hao's LinkedIn">
   </a>
 </div>
 
