@@ -9,10 +9,11 @@
 <br>
 
 <div align="center" style="align-items:center;">
-  <h3 align="center" style="display: inline-block; vertical-align: middle;">👩‍💻 About Me  </h3>
+  <h3 align="center" style="display: inline-block; vertical-align: middle;">👩‍💻 About Me  
   <a href="https://www.linkedin.com/in/loochihao" target="_blank" style="vertical-align: middle;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="23px" style="padding-top: 5px;" alt="Chi Hao's LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="23px" alt="Chi Hao's LinkedIn">
   </a>
+  </h3>
 </div>
 
 <p align="center">I'm currently exploring backend web development and data science</p>
